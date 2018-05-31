@@ -9,7 +9,7 @@ import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
 
 public class Urlcalling2 {
-	//test commit check
+	//test commit check from checked out project
 	private final String USER_AGENT = "Mozilla/5.0";
 
 	private void sendGet() throws Exception {
